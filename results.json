@@ -12,7 +12,7 @@
     { "id": 7, "round": 2, "date": "2026-07-11", "match": "New Zealand v Italy", "a": 47, "b": 17, "ta": 7, "tb": 2 },
     { "id": 8, "round": 2, "date": "2026-07-11", "match": "Australia v France", "a": 26, "b": 42, "ta": 4, "tb": 6 },
     { "id": 9, "round": 2, "date": "2026-07-11", "match": "Japan v Ireland", "a": 20, "b": 36, "ta": 2, "tb": 5 },
-    { "id": 10, "round": 2, "date": "2026-07-11", "match": "Fiji v England", "a": 8, "b": 78, "ta": 1, "tb": 11 },
+    { "id": 10, "round": 2, "date": "2026-07-11", "match": "Fiji v England", "a": 8, "b": 73, "ta": 1, "tb": 11 },
     { "id": 11, "round": 2, "date": "2026-07-11", "match": "South Africa v Scotland", "a": 42, "b": 28, "ta": 6, "tb": 4 },
     { "id": 12, "round": 2, "date": "2026-07-11", "match": "Argentina v Wales", "a": 35, "b": 21, "ta": 5, "tb": 3 },
     { "id": 13, "round": 3, "date": "2026-07-18", "match": "New Zealand v Ireland", "a": null, "b": null, "ta": null, "tb": null },
