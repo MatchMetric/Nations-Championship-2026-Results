@@ -1,6 +1,6 @@
 {
   "competition": "Nations Championship 2026",
-  "updated": "2026-07-06",
+  "updated": "2026-07-11",
   "note": "All 36 fixtures are prepopulated. After each match, fill in a/b (final score, home team first as listed) and ta/tb (tries scored - drives the 4-try bonus point). Leave unplayed matches as null - the app ignores them. Then just commit the file; the predictor picks it up automatically.",
   "results": [
     { "id": 1, "round": 1, "date": "2026-07-04", "match": "New Zealand v France", "a": 34, "b": 32, "ta": 5, "tb": 4 },
