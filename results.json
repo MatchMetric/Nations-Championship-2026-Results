@@ -1,6 +1,6 @@
 {
   "competition": "Nations Championship 2026",
-  "updated": "2026-11-14 02:13 UTC",
+  "updated": "2026-11-14 15:52 UTC",
   "note": "ids 1-36 are the group fixtures: a/b = final score (home team first as listed), ta/tb = tries (drives the 4-try bonus point), ko_utc = kick-off in UTC. ids 37-42 are Finals Weekend at Twickenham: north/south = the teams, a/ta = Northern team's score/tries, b/tb = Southern team's. A GitHub Action (.github/workflows/update-results.yml) fills in finished matches using the Anthropic API; it never overwrites a score that is already here, so hand edits always win.",
   "results": [
     {"id": 1, "round": 1, "date": "2026-07-04", "ko_utc": "2026-07-04T07:10Z", "match": "New Zealand v France", "a": 34, "b": 32, "ta": 5, "tb": 4},
@@ -28,7 +28,7 @@
     {"id": 23, "round": 4, "date": "2026-11-07", "ko_utc": "2026-11-07T20:10Z", "match": "France v Fiji", "a": 54, "b": 17, "ta": 8, "tb": 2, "report": "France ran in eight tries, including a penalty try after a maul collapse, to beat Fiji in Lyon, with Fiji replying through Habosi and Ravutaumada."},
     {"id": 24, "round": 4, "date": "2026-11-08", "ko_utc": "2026-11-08T15:10Z", "match": "England v Australia", "a": 45, "b": 22, "ta": 7, "tb": 3, "report": "England scored seven tries at Twickenham, including a Henry Pollock brace, to beat Australia, who replied through Jorgensen, Daugunu and Williams."},
     {"id": 25, "round": 5, "date": "2026-11-13", "ko_utc": "2026-11-13T20:10Z", "match": "France v South Africa", "a": 21, "b": 19, "ta": 3, "tb": 3, "report": "France led through first-half tries from Grandidier-Nkanang, Attissogbe and Bielle-Biarrey, then held on as South Africa's Libbok missed a late conversion that would have levelled the scores."},
-    {"id": 26, "round": 5, "date": "2026-11-14", "ko_utc": "2026-11-14T11:40Z", "match": "Italy v Argentina", "a": null, "b": null, "ta": null, "tb": null},
+    {"id": 26, "round": 5, "date": "2026-11-14", "ko_utc": "2026-11-14T11:40Z", "match": "Italy v Argentina", "a": 14, "b": 19, "ta": 2, "tb": 3, "report": "Argentina held off a late Italian fightback in Genoa despite three yellow cards, with tries from Bernasconi, Isgró and Carreras outscoring Ioane's early try and a penalty try."},
     {"id": 27, "round": 5, "date": "2026-11-14", "ko_utc": "2026-11-14T14:10Z", "match": "Wales v New Zealand", "a": null, "b": null, "ta": null, "tb": null},
     {"id": 28, "round": 5, "date": "2026-11-14", "ko_utc": "2026-11-14T16:40Z", "match": "England v Japan", "a": null, "b": null, "ta": null, "tb": null},
     {"id": 29, "round": 5, "date": "2026-11-14", "ko_utc": "2026-11-14T20:10Z", "match": "Ireland v Fiji", "a": null, "b": null, "ta": null, "tb": null},
